@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning Javascript and REACT;
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc);
+
 
 - 💬 I post my illustrations <a href="https://www.instagram.com/natulims/">here</a> and <a href="https://www.deviantart.com/natulims">here</a>;
 
