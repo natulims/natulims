@@ -44,8 +44,8 @@
 			<img src="https://64.media.tumblr.com/51413e4efdc52ca751ea431c40f70f90/d0adaaf3dfaa9d80-99/s75x75_c1/dd681d3cd9d169753a017e79b5d38b73eb05f078.pnj" width=35 ></a><br>
             <div align="center">
   <a href="https://github.com/natulims">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=natulims&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natulims&layout=compact&langs_count=7&theme=kacho_ga"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=natulims&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natulims&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
 ![Snake animation](https://github.com/natulims/natulims/blob/output/github-contribution-grid-snake.svg)
