@@ -16,7 +16,7 @@
 
 
 
-- 💬 I post my illustrations <a href="https://www.instagram.com/natulims/">here</a> and <a href="https://www.deviantart.com/natulims">here</a>;
+- 💬 I post my illustrations <a href="https://www.instagram.com/natulims/">here</a>.
 
 - 📫 How to reach me **nxtxlix.lc@gmail.com**.
 
